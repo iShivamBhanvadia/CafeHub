@@ -1,0 +1,24 @@
+[31-Oct-2017 10:37:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vph3admin/public_html/demo/ecafe/dbconf.php on line 2
+[31-Oct-2017 10:37:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 13
+[31-Oct-2017 10:38:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/vph3admin/public_html/demo/ecafe/dbconf.php on line 2
+[31-Oct-2017 10:38:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 13
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: contact in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 4
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: table_no in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 5
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: name in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 6
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: email in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 7
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: contact in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 8
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: pax in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 9
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: table_no in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 10
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: msg in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 11
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: name in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 12
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: email in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 12
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: contact in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 12
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: pax in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 12
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: table_no in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 12
+[31-Oct-2017 10:39:25 UTC] PHP Notice:  Undefined index: msg in /home/vph3admin/public_html/demo/ecafe/reservation.php on line 12
+[31-Oct-2017 11:04:44 UTC] PHP Notice:  Undefined index: pr_id in /home/vph3admin/public_html/demo/ecafe/place_order.php on line 6
+[31-Oct-2017 11:04:44 UTC] PHP Notice:  Undefined index: table_no in /home/vph3admin/public_html/demo/ecafe/place_order.php on line 8
+[31-Oct-2017 11:04:44 UTC] PHP Notice:  Undefined index: order in /home/vph3admin/public_html/demo/ecafe/place_order.php on line 13
+[31-Oct-2017 11:04:44 UTC] PHP Notice:  Undefined index: pr_id in /home/vph3admin/public_html/demo/ecafe/place_order.php on line 16
+[31-Oct-2017 11:04:44 UTC] PHP Notice:  Undefined index: table_no in /home/vph3admin/public_html/demo/ecafe/place_order.php on line 16
+[31-Oct-2017 11:04:44 UTC] PHP Notice:  Undefined index: order in /home/vph3admin/public_html/demo/ecafe/place_order.php on line 16
